@@ -1,0 +1,24 @@
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#section1{
+    background-color: orange;
+}
+#section2{
+    background-color: yellow;
+}
+#section3{
+    background-color: rgb(120, 176, 216);
+}
+#section4{
+    background-color: rgb(63, 233, 25);
+
+}
+#section5{
+    background-color: rgb(52, 10, 222);
+
+}
+.c{
+    color: white;
+}
